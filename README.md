@@ -38,11 +38,12 @@ This repository currently contains the completed Part 1 deliverables:
 - Sitemap
 - Aboutus.html
 
-  Part 2 update
+  **Part 2 update**
   Pet Care - Animal Rescue Website
-A simple website for a local non-profit animal rescue organisation based in Pretoria.
 
-About the Project
+-A simple website for a local non-profit animal rescue organisation based in Pretoria.
+
+## About the Project
 -This is the website for **Pet Care** (also referred to as The Animal Rescue), a local non-profit organisation founded in Pretoria.  
 The organisation rescues abandoned and unwanted pets such as dogs, cats, and rabbits around the city.
 
